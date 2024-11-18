@@ -15,3 +15,18 @@ Inkwell is a lightweight, offline-first note-taking app designed to keep your th
 - **Database**: SQLite (via Capacitor)
 - **Backend**: Offline-first, no server needed (future plans for Firebase integration)
 
+## Roadmap
+
+- ⬜ Basic CRUD functionality for notes
+- ⬜ Dark mode toggle
+- ⬜ Search and filter notes
+- ⬜ Add reminders and notifications
+- ⬜ Support for handwriting input (iPad, stylus, touchscreen)
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
